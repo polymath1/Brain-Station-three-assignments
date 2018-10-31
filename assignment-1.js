@@ -1,0 +1,7 @@
+var numbers = [];
+numbers.splice(0,9, 0,1,2,3,4,5,6,7,8,9)
+console.log(numbers[0],numbers[9])
+
+var car = new Object();
+car.colour = "black";
+console.log(car.colour);
